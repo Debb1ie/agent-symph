@@ -1,4 +1,4 @@
-# 🤖 Agentic AI — Local
+# Agentic AI — Local
 
 > A fully agentic AI assistant that runs **exclusively on localhost** — powered by Claude, with a built-in tool loop that reasons, acts, and iterates until it finds the best answer.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔁 **Agentic loop** — runs up to 10 rounds of tool calls per message
 - ⚡ **6 built-in tools** — calculator, datetime, text analyzer, JSON formatter, code runner, web search
